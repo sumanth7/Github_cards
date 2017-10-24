@@ -1,0 +1,2 @@
+This application displays github cards with profile picture and company name when username is given as inputs. It holds list of github cards
+Application is built using React js. Github API isused to fetch the git data.
